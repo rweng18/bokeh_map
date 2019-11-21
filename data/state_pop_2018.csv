@@ -1,0 +1,54 @@
+SUMLEV,REGION,DIVISION,STATE,NAME,POPESTIMATE2018
+10,0,0,0,United States,327167434
+40,3,6,1,Alabama,4887871
+40,4,9,2,Alaska,737438
+40,4,8,4,Arizona,7171646
+40,3,7,5,Arkansas,3013825
+40,4,9,6,California,39557045
+40,4,8,8,Colorado,5695564
+40,1,1,9,Connecticut,3572665
+40,3,5,10,Delaware,967171
+40,3,5,11,District of Columbia,702455
+40,3,5,12,Florida,21299325
+40,3,5,13,Georgia,10519475
+40,4,9,15,Hawaii,1420491
+40,4,8,16,Idaho,1754208
+40,2,3,17,Illinois,12741080
+40,2,3,18,Indiana,6691878
+40,2,4,19,Iowa,3156145
+40,2,4,20,Kansas,2911505
+40,3,6,21,Kentucky,4468402
+40,3,7,22,Louisiana,4659978
+40,1,1,23,Maine,1338404
+40,3,5,24,Maryland,6042718
+40,1,1,25,Massachusetts,6902149
+40,2,3,26,Michigan,9995915
+40,2,4,27,Minnesota,5611179
+40,3,6,28,Mississippi,2986530
+40,2,4,29,Missouri,6126452
+40,4,8,30,Montana,1062305
+40,2,4,31,Nebraska,1929268
+40,4,8,32,Nevada,3034392
+40,1,1,33,New Hampshire,1356458
+40,1,2,34,New Jersey,8908520
+40,4,8,35,New Mexico,2095428
+40,1,2,36,New York,19542209
+40,3,5,37,North Carolina,10383620
+40,2,4,38,North Dakota,760077
+40,2,3,39,Ohio,11689442
+40,3,7,40,Oklahoma,3943079
+40,4,9,41,Oregon,4190713
+40,1,2,42,Pennsylvania,12807060
+40,1,1,44,Rhode Island,1057315
+40,3,5,45,South Carolina,5084127
+40,2,4,46,South Dakota,882235
+40,3,6,47,Tennessee,6770010
+40,3,7,48,Texas,28701845
+40,4,8,49,Utah,3161105
+40,1,1,50,Vermont,626299
+40,3,5,51,Virginia,8517685
+40,4,9,53,Washington,7535591
+40,3,5,54,West Virginia,1805832
+40,2,3,55,Wisconsin,5813568
+40,4,8,56,Wyoming,577737
+40,X,X,72,Puerto Rico Commonwealth,3195153
