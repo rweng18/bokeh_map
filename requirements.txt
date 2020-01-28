@@ -1,0 +1,4 @@
+geopandas==0.6.1
+pandas==0.25.3
+Shapely==1.6.4.post1
+bokeh==1.4.0
